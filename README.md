@@ -45,8 +45,6 @@ The dataset used is from **ADANIPORTS** stock and includes:
 | `ADANIPORTS.csv`             | Raw dataset |
 | `Stock_Price_Prediction.ipynb` | Main notebook with full code, plots, training & evaluation |
 | `requirements.txt`           | All Python dependencies |
-| `.gitignore`                 | Git ignored files |
-| `images/`                    | Optional screenshots or visualizations |
 
 ## ▶️ How to Run
 

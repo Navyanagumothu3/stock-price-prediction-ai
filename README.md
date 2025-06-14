@@ -33,8 +33,8 @@ The dataset used is from **ADANIPORTS** stock and includes:
 
 ## 📈 Results
 
-- ROC AUC (Train): ~0.89
-- ROC AUC (Validation): ~0.54+
+- Train ROC AUC: 0.9557
+- Validation ROC AUC: 0.5248
 - Model used: XGBoost
 - Target: Binary classification of stock price movement
 

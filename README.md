@@ -4,7 +4,7 @@ This project is an AI-based system to predict stock price movement (up/down) usi
 
 ## 📂 Dataset
 
-The dataset used is for **ADANIPORTS** stock and includes:
+The dataset used is from **ADANIPORTS** stock and includes:
 - Date-wise Open, High, Low, Close prices
 - Volume
 - VWAP (Volume Weighted Average Price)
